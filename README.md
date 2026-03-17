@@ -8,7 +8,7 @@ Java, type script, javascript, t-sql
 ### Principais banco de dados utilizados:
 Sql server, oracle, postgres, mysql
 
-### Projeto: vollmed_api
+### Projeto: api-vollmed
 Projeto com autenticação JWT, aplicação de SOLID, Strategy Pattern, validações de negócio e versionamento de banco com Flyway
 
 ### 🧰 Tecnologias
