@@ -1,11 +1,17 @@
 
-### Principais recursos utilizados nos projetos:
-Angular, SpringBoot, Node, Maven
+<h1 align='center'>Olá, sou o Filipe!! 👋</h1>
 
-### Principais linguagens utilizadas:
+<h2 align='center'> Desenvolvedor full stack • Desenvolvedor Back end • Especialista em Java </h2>
+
+Atuando com programação desde 2010, desenvolvedor Full Stack com foco na linguagem Java. Buscando sempre aprimorar e atualizar conforme tendências de mercado.
+
+### Tecnologias utilizados nos projetos:
+Angular, Spring, SpringBoot, Spring Security, Node, Maven, Docker
+
+### Linguagens utilizadas nos projetos:
 Java, type script, javascript, t-sql
 
-### Principais banco de dados utilizados:
+### Banco de dados utilizados nos projetos:
 Sql server, oracle, postgres, mysql
 
 ### Link do projeto Git: <a href="https://github.com/FilipeASSouza/projeto-api-vollmed" target="_blank">Api Vollmed</a>
