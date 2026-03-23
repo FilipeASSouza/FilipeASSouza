@@ -31,3 +31,12 @@ Projeto com autenticação JWT, aplicação de SOLID, Strategy Pattern, validaç
 * SpringDoc (Swagger / OpenAPI)
 * H2 Database (ambiente de testes)
 * Publicação Render (Docker)
+
+### Link do projeto Git: <a href="https://github.com/FilipeASSouza/angular-aplicacao-web-cli"> 📱 Agenda de Contatos - Angular </a>
+Aplicação desenvolvida em Angular para gerenciamento de contatos, com funcionalidades completas de CRUD, integração com API REST, upload de imagem e navegação dinâmica.
+
+### Link do projeto Git: <a href="https://github.com/FilipeASSouza/typescript_projeto_inicial">🚀 TypeScript - Projeto Completo com Boas Práticas e Arquitetura</a>
+Este projeto demonstra a construção de uma aplicação utilizando TypeScript, evoluindo desde a configuração inicial até a aplicação de conceitos avançados como POO, generics, decorators, imutabilidade e programação defensiva.
+
+### Link do projeto Git: <a href="https://github.com/FilipeASSouza/maratonajsf">☕ Java JSF - Projeto Completo com Ajax, Validação e Ciclo de Vida</a>
+Este projeto demonstra a construção de uma aplicação utilizando Java Server Faces (JSF), explorando desde conceitos básicos até funcionalidades avançadas como Ajax, validações, ciclo de vida, conversores, escopos e componentes customizados.
