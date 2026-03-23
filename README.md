@@ -35,6 +35,43 @@ Projeto com autenticação JWT, aplicação de SOLID, Strategy Pattern, validaç
 ### Link do projeto Git: <a href="https://github.com/FilipeASSouza/angular-aplicacao-web-cli"> 📱 Agenda de Contatos - Angular </a>
 Aplicação desenvolvida em Angular para gerenciamento de contatos, com funcionalidades completas de CRUD, integração com API REST, upload de imagem e navegação dinâmica.
 
+### 🚀 Tecnologias utilizadas
+### 🧩 Frontend
+- Angular 16 — Framework principal para construção da aplicação
+- TypeScript — Tipagem estática e maior segurança no desenvolvimento
+- HTML5 + CSS3 — Estrutura e estilização da interface
+- Angular CLI — Gerenciamento e build do projeto
+
+### ⚡ Programação reativa
+- RxJS — Manipulação de dados assíncronos com Observables
+- HttpClient — Consumo de API REST
+- 🧾 Formulários
+- Reactive Forms — Controle avançado de formulários
+- Validações customizadas — Regras de negócio aplicadas ao formulário
+
+### 🌐 Backend (simulado)
+- json-server — API REST fake para simulação de backend
+
+### 💾 Persistência de dados
+- LocalStorage — Armazenamento local no navegador
+- Sincronização com API REST
+
+### 🎨 UI/UX
+- CSS customizado
+- Material Icons — Ícones da interface
+- Componentização — Reutilização de elementos visuais
+
+### 🧱 Arquitetura e padrões
+- Component-based architecture
+- Separation of Concerns (SoC)
+- Service Layer Pattern
+- Routing Module (SPA)
+
+### 🛠️ Ferramentas e ambiente
+- Node.js
+- npm
+- Git & GitHub
+
 ### Link do projeto Git: <a href="https://github.com/FilipeASSouza/typescript_projeto_inicial">🚀 TypeScript - Projeto Completo com Boas Práticas e Arquitetura</a>
 Este projeto demonstra a construção de uma aplicação utilizando TypeScript, evoluindo desde a configuração inicial até a aplicação de conceitos avançados como POO, generics, decorators, imutabilidade e programação defensiva.
 
