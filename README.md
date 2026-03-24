@@ -75,5 +75,104 @@ Aplicação desenvolvida em Angular para gerenciamento de contatos, com funciona
 ### <h2> Link do projeto Git: <a href="https://github.com/FilipeASSouza/typescript_projeto_inicial">🚀 TypeScript - Projeto Completo com Boas Práticas e Arquitetura</a></h2>
 Este projeto demonstra a construção de uma aplicação utilizando TypeScript, evoluindo desde a configuração inicial até a aplicação de conceitos avançados como POO, generics, decorators, imutabilidade e programação defensiva.
 
+## 🧰 Stack
+TypeScript • Node.js • MVC • POO • Generics • Decorators • REST API • Programação Defensiva
+
+### 🚀 Tecnologias utilizadas
+
+### 🧩 Linguagem principal
+- TypeScript — Desenvolvimento com tipagem estática e recursos avançados da linguagem
+- JavaScript (ES6+) — Execução final após compilação
+
+### ⚙️ Ambiente de execução
+- Node.js — Runtime para execução da aplicação no backend
+- npm — Gerenciamento de dependências e scripts
+
+### 🧱 Arquitetura e padrões
+- MVC (Model-View-Controller) — Separação de responsabilidades
+- POO (Programação Orientada a Objetos) — Organização baseada em classes
+- SOLID (parcial) — Aplicação de boas práticas de design de software
+- Separation of Concerns (SoC)
+
+### 🧠 Recursos avançados do TypeScript
+- Generics — Reutilização de código com tipagem flexível
+- Interfaces — Contratos e padronização de estruturas
+- Enums — Representação de estados e constantes
+- Decorators — Programação metaprogramada (log, performance, etc.)
+- Modificadores de acesso — private, readonly
+
+### 🛡️ Qualidade e segurança
+- Programação defensiva
+- Imutabilidade (ReadonlyArray)
+- Validação de dados
+- Sanitização (prevenção de scripts)
+
+### 🌐 Integração externa
+- API REST — Consumo de dados externos via services
+
+### ⚙️ Configuração e build
+- tsconfig.json — Configuração do compilador TypeScript:
+- strictNullChecks
+- noEmitOnError
+- sourceMap
+- TypeScript Compiler (tsc) — Transpilação para JavaScript
+
+### 🛠️ Ferramentas
+- Git & GitHub — Versionamento e controle de código
+
 - ### <h2> Link do projeto Git: <a href="https://github.com/FilipeASSouza/maratonajsf">☕ Java JSF - Projeto Completo com Ajax, Validação e Ciclo de Vida</a></h2>
 Este projeto demonstra a construção de uma aplicação utilizando Java Server Faces (JSF), explorando desde conceitos básicos até funcionalidades avançadas como Ajax, validações, ciclo de vida, conversores, escopos e componentes customizados.
+
+## 🧰 Stack
+Java • JSF • Facelets • AJAX • Bean Validation • OmniFaces • Servlet API • Tomcat
+
+### 🚀 Tecnologias utilizadas
+### ☕ Backend
+- Java — Linguagem principal da aplicação
+- Java EE / Jakarta EE — Plataforma para desenvolvimento web corporativo
+
+### ⚙️ Framework Web
+- JSF (JavaServer Faces) — Framework MVC baseado em componentes para aplicações web
+- Facelets (XHTML) — Engine de templates para construção das views
+- Expression Language (EL) — Comunicação entre frontend e backend
+
+### 🔄 Interatividade e requisições
+- AJAX (JSF nativo) — Atualização parcial da interface sem recarregar a página
+- Eventos JSF — Manipulação de interações (blur, focus, etc.)
+
+### 🧾 Validação e conversão
+- Bean Validation (JSR 380) — Validação declarativa com anotações
+- Validators customizados — Regras específicas de negócio
+- Converters (JSF) — Conversão entre tipos (String ↔ Objeto)
+
+### 🧬 Gerenciamento de estado
+- Managed Beans — Controle da lógica da aplicação
+- Escopos JSF — Request, Session, View, Application
+- Ciclo de vida do JSF — Controle completo das fases da requisição
+
+### 📁 Manipulação de dados
+- Collections (List, Map, TreeMap) — Estruturas de dados Java
+- Comparator — Ordenação de dados
+- DataTable (JSF) — Exibição de dados em tabela
+
+### 📂 Upload e recursos web
+- Servlet API (javax.servlet) — Manipulação de requisições e arquivos
+- Upload de arquivos (Part API)
+
+### 🍪 Sessão e contexto
+- HTTP Session — Gerenciamento de estado do usuário
+- Cookies — Persistência de informações no cliente
+- Application Context — Compartilhamento de dados globais
+
+### 🧩 Customização e extensões
+- TagLibs customizadas — Criação de componentes reutilizáveis
+- OmniFaces — Utilitários avançados para JSF
+- Resource Versioning — Controle de cache de arquivos estáticos
+
+### 🖥️ Servidor de aplicação
+- Apache Tomcat — Servidor web para execução da aplicação
+- WildFly — Servidor Java EE completo
+
+### 🛠️ Ferramentas
+- Git & GitHub — Versionamento de código
+- IntelliJ IDEA / Eclipse — IDEs de desenvolvimento Java
