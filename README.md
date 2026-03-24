@@ -19,21 +19,56 @@ Projeto com autenticação JWT, aplicação de SOLID, Strategy Pattern, validaç
 
 ### Link do Swagger: <a href="https://springboot-apirest.onrender.com/swagger-ui/index.html" target="_blank">🏥 API de Agendamento de Consultas</a>
 
-### 🚀 Tecnologias Utilizadas
+## 🧰 Stack
+Java • Spring Boot • Spring Security • JWT • JPA/Hibernate • Flyway • H2 • REST API • Maven
 
-* Java (v.17)
-* Spring Boot
-* Spring Security
-* JPA / Hibernate
-* Flyway (migrations de banco)
-* MySql (Banco de dados)
-* JWT (JSON Web Token)
-* SpringDoc (Swagger / OpenAPI)
-* H2 Database (ambiente de testes)
-* Publicação Render (Docker)
+### 🚀 Tecnologias utilizadas
+### ☕ Backend
+- Java — Linguagem principal da aplicação
+- Spring Boot — Framework para criação de APIs REST
+- Spring Security — Autenticação e autorização de usuários
+
+### 🔐 Segurança
+- JWT (JSON Web Token) — Autenticação stateless baseada em token
+- BCrypt — Criptografia de senhas
+- OncePerRequestFilter — Filtro para validação de requisições autenticadas
+
+### 🗄️ Persistência de dados
+- JPA (Jakarta Persistence API) — Abstração para acesso a dados
+- Hibernate — Implementação ORM
+- H2 Database — Banco em memória para testes e desenvolvimento
+
+### 🔄 Versionamento de banco
+- Flyway — Controle de migrations e versionamento do banco de dados
+
+### 📄 Documentação
+- SpringDoc OpenAPI (Swagger) — Documentação automática da API REST
+
+### 🧪 Testes
+- Testes de integração (Spring Boot Test)
+- Banco em memória (H2)
+- Simulação de autenticação
+
+### 🧱 Arquitetura e padrões
+- Arquitetura em camadas (Controller, Service, Repository)
+- SOLID
+- Strategy Pattern
+- Separation of Concerns (SoC)
+- Tratamento global de exceções
+
+### 🌐 API
+- RESTful API
+- JSON — Formato de comunicação
+
+### 🛠️ Ferramentas
+- Maven — Gerenciamento de dependências e build
+- Git & GitHub — Versionamento de código
 
 ### <h2> Link do projeto Git: <a href="https://github.com/FilipeASSouza/angular-aplicacao-web-cli"> 📱 Agenda de Contatos - Angular </a> </h2>
 Aplicação desenvolvida em Angular para gerenciamento de contatos, com funcionalidades completas de CRUD, integração com API REST, upload de imagem e navegação dinâmica.
+
+## 🧰 Stack
+Angular 16 • TypeScript • RxJS • Reactive Forms • REST API • json-server • HTML5 • CSS3 • LocalStorage • Node.js
 
 ### 🚀 Tecnologias utilizadas
 ### 🧩 Frontend
