@@ -5,6 +5,12 @@
 
 Atuando com programação desde 2010, desenvolvedor Full Stack com foco na linguagem Java. Buscando sempre aprimorar e atualizar conforme tendências de mercado.
 
+Desenvolvedor Java Sênior Full Stack com sólida experiência no desenvolvimento de soluções robustas e escaláveis, atuando com foco em microserviços, arquitetura RESTful e boas práticas de engenharia de software. Atualmente trabalho com Java, arquitetura RestFul e RMI, Angular, contribuindo para a evolução de sistemas críticos no setor financeiro.
+
+Tenho experiência em todo o ciclo de desenvolvimento, desde levantamento de requisitos até implementação e melhoria contínua, com forte atuação em qualidade, performance e definição de padrões técnicos.
+
+Sou formado em Análise e Desenvolvimento de Sistemas e também em Banco de Dados, o que fortalece minha visão sistêmica e foco em soluções eficientes e orientadas a dados.
+
 ### Tecnologias utilizados nos projetos:
 Angular, Spring, SpringBoot, Spring Security, Node, Maven, Docker
 
