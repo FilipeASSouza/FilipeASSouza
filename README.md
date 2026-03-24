@@ -20,7 +20,7 @@ Java, type script, javascript, t-sql
 ### Banco de dados utilizados nos projetos:
 Sql server, oracle, postgres, mysql
 
-### <h2> Link do projeto Git: <a href="https://github.com/FilipeASSouza/projeto-api-vollmed" target="_blank">🏥 API de Agendamento de Consultas</a></h2>
+### <h2> Link do projeto Git: <a href="https://github.com/FilipeASSouza/api-vollmed" target="_blank">🏥 API de Agendamento de Consultas</a></h2>
 Projeto com autenticação JWT, aplicação de SOLID, Strategy Pattern, validações de negócio e versionamento de banco com Flyway
 
 ### Link do Swagger: <a href="https://springboot-apirest.onrender.com/swagger-ui/index.html" target="_blank">🏥 API de Agendamento de Consultas</a>
